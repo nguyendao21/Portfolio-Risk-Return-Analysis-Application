@@ -29,6 +29,7 @@ To use this application, simply clone the repository and open jupyter lab from g
 After launching the application, navigate ``risk_return_analysis.ipynb`` notebook in the repository. 
 
 ### *Example*
+https://github.com/nguyendao21/Portfolio-Risk-Return-Analysis-Application/issues/1#issue-1092091611
 
 
 
